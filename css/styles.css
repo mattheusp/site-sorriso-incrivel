@@ -2813,11 +2813,11 @@ textarea.form-control-lg {
   border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
   border-radius: var(--bs-btn-border-radius);
   background-color: var(--bs-btn-bg);
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out, background-color 0.3s ease-in-out, border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
   .btn {
-    transition: none;
+    transition: 0.3s;
   }
 }
 .btn:hover {
@@ -2826,7 +2826,7 @@ textarea.form-control-lg {
   border-color: var(--bs-btn-hover-border-color);
 }
 .btn-check + .btn:hover {
-  color: var(--bs-btn-color);
+  color: #1064e0;
   background-color: var(--bs-btn-bg);
   border-color: var(--bs-btn-border-color);
 }
@@ -10884,7 +10884,7 @@ ul {
 }
 
 a {
-  color: grey;
+  color: #333;
   text-decoration: none;
   font-family: sans-serif;
 }
@@ -10944,6 +10944,8 @@ a:hover {
     margin: 0 1rem;
     border-bottom: 2px solid rgba(0, 0, 0, 0.05);
   }
+
+  
   #btn-mobile {
     display: flex;
     padding: 0.5rem 1rem;
@@ -10953,6 +10955,7 @@ a:hover {
     cursor: pointer;
     gap: 0.5rem;
   }
+
   #hamburger {
     border-top: 2px solid;
     width: 20px;
