@@ -48,10 +48,6 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 - Nome: Seu Nome
 - Email: seuemail@example.com
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
 
 ## Contato ✉️
 
