@@ -1,3 +1,5 @@
+![Website sorriso incrivel](https://i.imgur.com/eMfxIqu.png)
+
 # Dentist Landing Page
 
 This repository contains a landing page for a dental office, created using HTML, CSS and Bootstrap. The page was developed to provide basic information about the practice, its services and to capture leads interested in scheduling an appointment.
