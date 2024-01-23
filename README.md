@@ -21,11 +21,12 @@ The landing page has the following features:
 - Offers a contact form for visitors interested in scheduling an appointment.
 - Responsive, adapts to different screen sizes and devices.
 
-## Technologies used
 
--HTML
--CSS
-- Bootstrap
+## Tools used:
+    - Html
+    - CSS
+    - Bootstrap
+
 
 ## Project structure
 
