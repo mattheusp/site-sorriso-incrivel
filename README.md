@@ -1,61 +1,58 @@
-# Landing Page de Dentista
+# Dentist Landing Page
 
-Este repositório contém uma landing page de um consultório dentário, criada utilizando HTML, CSS e Bootstrap. A página foi desenvolvida para fornecer informações básicas sobre o consultório, seus serviços e para capturar leads interessados em agendar uma consulta.
+This repository contains a landing page for a dental office, created using HTML, CSS and Bootstrap. The page was developed to provide basic information about the practice, its services and to capture leads interested in scheduling an appointment.
 
-## Demonstração
+## Demonstration
+Result of the project at vercel: https://site-sorriso-incrivel.vercel.app/
 
-Uma demonstração da landing page pode ser acessada [aqui](https://example.com).
-
-## Capturas de tela
+## Screenshots
 
 ![Thumbnail](/img/projeto-landing-page-dentista.png)
 ![Thumbnail](/img/projeto-lading-page-2.png)
 
-## Funcionalidades
+## Functionalities
 
-A landing page possui as seguintes funcionalidades:
+The landing page has the following features:
 
-- Apresenta informações sobre o consultório, incluindo uma breve descrição e os serviços oferecidos.
-- Exibe depoimentos de pacientes satisfeitos.
-- Oferece um formulário de contato para os visitantes interessados em agendar uma consulta.
-- Responsiva, se adapta a diferentes tamanhos de tela e dispositivos.
+- Presents information about the practice, including a brief description and the services offered.
+- Displays testimonials from satisfied patients.
+- Offers a contact form for visitors interested in scheduling an appointment.
+- Responsive, adapts to different screen sizes and devices.
 
-## Tecnologias utilizadas
+## Technologies used
 
-- HTML
-- CSS
+-HTML
+-CSS
 - Bootstrap
 
-## Estrutura do projeto
+## Project structure
 
-- `index.html`: Página principal da landing page.
-- `css/`: Diretório contendo arquivos de estilo CSS.
-- `js/`: Diretório contendo arquivos JavaScript (se houver).
-- `images/`: Diretório contendo imagens utilizadas na página.
-- `screenshots/`: Diretório contendo capturas de tela da página.
+- `index.html`: Main page of the landing page.
+- `css/`: Directory containing CSS style files.
+- `js/`: Directory containing JavaScript files (if any).
+- `images/`: Directory containing images used on the page.
+- `screenshots/`: Directory containing screenshots of the page.
 
-## Como usar
+## How to use
 
-1. Clone este repositório em sua máquina local:
-2. Abra o arquivo `index.html` em seu navegador.
+1. Clone this repository to your local machine:
+2. Open the `index.html` file in your browser.
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## Autor
+## Contact ✉️
 
-- Nome: Seu Nome
-- Email: seuemail@example.com
-
-
-## Contato ✉️
-
-- E-mail: mattheusp382@gmail.com
+- Email: mattheusp382@gmail.com
 - LinkedIn: [Mattheus-Pereira](https://www.linkedin.com/in/mattheuspereira/)
-- Instagram - https://www.instagram.com/mattheusp_dev/
-- Portfólio: [seu-website.com](https://www.seu-website.com)
+- Portfolio: [mtp-dev.com](https://mtpdev.com.br/)
 
-## Licença ⚖️
+## Contribution 🤝
 
-Este projeto está licenciado sob a Licença MIT(https://opensource.org/licenses/MIT) - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
+If you want to contribute to a project or encounter a problem, feel free to open a new issue or send a pull request. Any contribution is welcome!
+
+
+## License 📄
+
+This project is licensed under the MIT License (https://opensource.org/licenses/MIT) - see the [LICENSE.md](LICENSE.md) file for more details.
